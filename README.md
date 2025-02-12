@@ -6,10 +6,6 @@ Zbigniew Mikulski<br>
 and
 Michael Nelson of [LOCI](https://loci.wisc.edu/)
 
-Assisted by<br> 
-Lisa Bouker, Admin Assistant Extrordinaire!
-
-## Join Slack! 
 
 
 ## Prepare for the workshop
@@ -79,6 +75,7 @@ Do good things, not bad things!<br>
 
 # Acknowledgements
 [La Jolla Institute](https://www.lji.org/about-us/)
+Lisa Bouker, Admin Assistant Extrordinaire!
 Core facility staff
 IT
 Coordinaters
