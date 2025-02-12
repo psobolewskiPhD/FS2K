@@ -3,8 +3,12 @@ Jupyter notebooks for teaching QuPath - Feb 2025, QuPath v0.6.0rc3<br>
 Hosted by [The Microscopy and Histology Core Facilities at La Jolla Institute](https://www.lji.org/research/research-services/microscopy-histology/)<br>
 Sara McArdle<br>
 Zbigniew Mikulski<br>
-Assisted by<br> 
+and
 Michael Nelson of [LOCI](https://loci.wisc.edu/)
+
+Assisted by<br> 
+Lisa Bouker, Admin Assistant Extrordinaire!
+
 ## Join Slack! 
 
 
