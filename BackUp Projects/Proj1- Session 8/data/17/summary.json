@@ -1,0 +1,1 @@
+{"timestamp":1739393017125,"imageType":"FLUORESCENCE","server":{"width":2790,"height":2790,"sizeC":19,"sizeZ":1,"sizeT":1},"hierarchy":{"nObjects":3914,"objectTypeCounts":{"Root objects":1,"Annotations":5,"Cells":3908},"annotationClassificationCounts":{"CD4":1,"Region*":1,"Ignore*":1,"CD8":1,"Tumor":1},"detectionClassificationCounts":{"Unclassified":3908}}}
