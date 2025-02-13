@@ -1,0 +1,56 @@
+Image,Object ID,Object type,Name,Classification,Parent,ROI,Centroid X µm,Centroid Y µm,Num Detections,Num CD45,Area µm^2,Perimeter µm
+LungImg1.ome.tif,e5242b32-c6d9-446b-a3b7-027d3b690784,Annotation,,Region*,Root object (Image),Polygon,452.41,452.43,9244,3908,818602.2,3634.8
+LungImg1.ome.tif,614ae433-3838-493b-8d58-b6586678f248,Annotation,,Tumor,Annotation (Region*),Geometry,425.67,298.93,842,16,154677.2,21244.6
+LungImg1.ome.tif,d1b7c3ff-553a-42e9-914d-d87e892eb582,Annotation,,CD45,Root object (Image),Polygon,436.62,394.85,2,2,81.78,50.47
+LungImg1.ome.tif,0d67629d-0a1f-43e9-ac33-6c1407fc8732,Annotation,,CD45,Root object (Image),Polygon,418.6,368.07,2,2,50.62,35.14
+LungImg1.ome.tif,2854ae98-e483-4369-aee9-2470288ffc8f,Annotation,,CD45,Root object (Image),Polygon,401.9,401.18,1,1,41.25,28.66
+LungImg1.ome.tif,ed34ed85-c126-4d79-8c88-833350dc0495,Annotation,,CD45,Root object (Image),Polygon,413.46,422.25,1,1,28.84,22.19
+LungImg1.ome.tif,fbd3ead4-8bba-4354-901a-998686e92a52,Annotation,,CD45,Root object (Image),Polygon,485.44,399.4,2,2,85.08,41.44
+LungImg1.ome.tif,de895ac1-b03d-4cf5-ae51-2d514e9ccc3e,Annotation,,CD45,Root object (Image),Polygon,341.31,454.29,2,2,78.91,38.51
+LungImg1.ome.tif,61c88c17-246f-430d-83c9-11f4b47852d6,Annotation,,CD45,Root object (Image),Polygon,800.55,241.11,7,7,208.16,91.42
+LungImg1.ome.tif,c8ce0903-5664-4078-a0fb-05f9c1ef6ff2,Annotation,,CD45,Root object (Image),Polygon,846.94,215.43,2,2,53.71,32.67
+LungImg1.ome.tif,82e4e663-5670-4e0d-a457-e5c5d36427b6,Annotation,,CD45,Root object (Image),Polygon,854.2,202.83,2,2,52.18,34.59
+LungImg1.ome.tif,51e109fc-7ba4-4d71-8800-99282d17da36,Annotation,,CD45,Root object (Image),Polygon,873.18,166.92,1,1,28.84,21.43
+LungImg1.ome.tif,eb451364-13ac-4414-a17e-cbbd3f29f67d,Annotation,,Ignore*,Root object (Image),Polygon,306.27,110.22,7,0,1000.6,173.77
+LungImg1.ome.tif,09b5139f-3bea-4759-a133-5a3ab207eeda,Annotation,,Ignore*,Root object (Image),Geometry,15.19,269.51,9,0,1633.1,245.37
+LungImg1.ome.tif,3fd12a45-965b-4c9d-9640-b6154c93f0d8,Annotation,,Ignore*,Root object (Image),Polygon,644.24,509.39,1,1,19.17,19.96
+LungImg1.ome.tif,a8fd2004-88e7-4db2-bb65-a685f60e4562,Annotation,,Ignore*,Root object (Image),Polygon,744.74,476.77,3,1,50.52,34.44
+LungImg1.ome.tif,8ac33ac6-f7ad-484a-ba09-7619e83cfd8a,Annotation,,Ignore*,Root object (Image),Polygon,731.69,460.87,1,0,26.62,21.27
+LungImg1.ome.tif,4d8eecd8-b245-41b6-a5f6-37bb03795f43,Annotation,,Ignore*,Root object (Image),Polygon,726.2,447.21,1,0,69.66,43.15
+LungImg1.ome.tif,5a8abde4-129b-4eff-82a7-1f3617527462,Annotation,,Ignore*,Root object (Image),Polygon,423.34,417.89,3,0,220.76,87.84
+LungImg1.ome.tif,45462cd9-f04d-42c4-945a-0f601dc17ca7,Annotation,,Ignore*,Root object (Image),Polygon,555.5,128.34,11,0,2365.8,407.38
+LungImg1.ome.tif,9b713e25-573b-4853-ab1b-25c699d74525,Annotation,,CD45,Root object (Image),Polygon,432.19,405.97,3,3,61.79,51.31
+LungImg1.ome.tif,556d7c6a-2b24-4a3e-8860-bf57e5937517,Annotation,,Ignore*,Root object (Image),Polygon,846.29,183.27,5,0,542.95,126.94
+LungImg1.ome.tif,956db2bb-4181-412b-94d0-54c67a31f7e2,Annotation,,Ignore*,Root object (Image),Polygon,668.63,544.56,3,0,43.15,41.2
+LungImg1.ome.tif,ca1c1059-62e7-4c6a-b5b5-666d89891e18,Annotation,,Ignore*,Root object (Image),Polygon,646.4,468.97,1,1,16.11,17.45
+LungImg1.ome.tif,3f769ed9-d279-4b04-be04-ee587213fb2f,Annotation,,Ignore*,Root object (Image),Polygon,591.75,474.49,1,0,38.15,33.33
+LungImg1.ome.tif,9219b983-d068-4590-b6fc-c3e93a34a7c8,Annotation,,CD45,Root object (Image),Polygon,304.02,26.31,4,4,173.91,54.91
+LungImg1.ome.tif,fb148601-7bcb-4b81-845c-ea7d1c17089a,Annotation,,CD45,Root object (Image),Polygon,272.8,65.91,1,1,122.05,42.11
+LungImg1.ome.tif,7676b320-24a8-4ef0-9be0-b07522c4f98c,Annotation,,CD45,Root object (Image),Polygon,210.24,45.52,1,1,29.57,25.68
+LungImg2.ome.tif,79c3e580-27c0-450e-9fbd-6df3ad7c0509,Annotation,,Region*,Root object (Image),Geometry,333.39,337.11,4431,1022,477567,5886.4
+LungImg2.ome.tif,5a202018-e27f-4574-918d-7af257262b5d,Annotation,,Tumor,Annotation (Region*),Geometry,344.8,349.21,2167,79,227335.4,24239.8
+LungImg2.ome.tif,2cef8150-5fb3-4c57-9d89-a3b936754c83,Annotation,,CD45,Root object (Image),Polygon,392.29,662.46,4,4,139.59,59.93
+LungImg2.ome.tif,789c5a7e-8e34-4ec2-9d89-1676547b2440,Annotation,,CD45,Root object (Image),Polygon,392.48,613.28,3,3,139.55,59.4
+LungImg2.ome.tif,c8e10a99-da5e-420a-8ce3-d9bc51bc51b2,Annotation,,CD45,Root object (Image),Polygon,277.11,607.36,4,4,142.77,61.1
+LungImg2.ome.tif,4a4617a0-cb57-463f-910c-1ce3cca597e4,Annotation,,CD45,Root object (Image),Polygon,262.09,635.21,3,3,106.2,47.29
+LungImg2.ome.tif,2a8da4f4-596f-47b0-af7a-353dd939e6bc,Annotation,,Ignore*,Root object (Image),Polygon,510.24,132.16,4,0,160.11,70.03
+LungImg2.ome.tif,812071d0-3ef8-4ca2-9803-46ae3c1da8e4,Annotation,,Ignore*,Root object (Image),Geometry,481.76,164.7,11,0,502.84,163.11
+LungImg2.ome.tif,94327d35-7718-4dac-947b-540941d747cc,Annotation,,Ignore*,Root object (Image),Polygon,410.05,111.03,3,0,129.75,56.69
+LungImg2.ome.tif,1785eb94-500e-49f9-861a-ab797eda0d0a,Annotation,,Ignore*,Root object (Image),Polygon,204.11,110.63,2,0,124.88,51.51
+LungImg3.ome.tif,60c3b0dd-b1b7-48c7-a598-6d53499c1486,Annotation,,Region*,Root object (Image),Polygon,506.99,506.99,8385,3004,1028175.7,4066.4
+LungImg3.ome.tif,3636a99e-0e0e-4f56-86dc-1f11a1571a80,Annotation,,Tumor,Annotation (Region*),Geometry,505.82,440.33,2005,44,389448.7,39543.4
+LungImg3.ome.tif,a1a6c52f-81b9-44b4-a3bb-b26575e649cd,Annotation,,Ignore*,Root object (Image),Polygon,273.94,634.82,4,0,172.31,63.56
+LungImg3.ome.tif,098b4ae5-23cc-43ce-9fa0-5c1b106f08ae,Annotation,,CD45,Root object (Image),Polygon,314.74,631.28,1,1,57.14,28.27
+LungImg3.ome.tif,840df21f-8906-4ab5-bc2e-e73355210c0b,Annotation,,CD45,Root object (Image),Polygon,336.81,629.44,2,2,103.05,42.35
+LungImg3.ome.tif,8c9dca91-fc3f-4c23-8a2d-4c9480f214c3,Annotation,,CD45,Root object (Image),Polygon,395.95,620.94,6,6,243.26,84.89
+LungImg3.ome.tif,da671721-71c9-4dc3-840a-7f8c8e07e778,Annotation,,CD45,Root object (Image),Polygon,401.06,660.32,1,1,82.18,35.79
+LungImg3.ome.tif,75d16085-d65f-4fcb-a913-72dcb967b88a,Annotation,,CD45,Root object (Image),Polygon,423.8,651.78,4,4,164.05,60.78
+LungImg3.ome.tif,85463ef6-bf0b-491c-a07b-79494d68bcb3,Annotation,,CD45,Root object (Image),Polygon,36.2,919.5,4,4,141.49,70.47
+LungImg3.ome.tif,a5d405d7-deb0-4ece-ba37-6ef7594bb092,Annotation,,CD45,Root object (Image),Polygon,899.59,436.5,1,1,61.84,29.6
+LungImg3.ome.tif,74676160-13e9-4afe-a031-2ede20ac48d2,Annotation,,CD45,Root object (Image),Polygon,939.62,445.73,1,1,59.63,29.02
+LungImg3.ome.tif,ef8a2eeb-c858-46c6-9bc2-9c34080695bb,Annotation,,Region*,Root object (Image),Polygon,195.29,833,2,0,123.7,63.92
+LungImg3.ome.tif,2cb212da-097b-4bc8-b905-72852c99c174,Annotation,,Region*,Root object (Image),Polygon,345.46,712.12,7,1,598.59,122.32
+LungImg3.ome.tif,3f709aef-4c40-41a0-92f0-cd95cdea7f07,Annotation,,Region*,Root object (Image),Polygon,333.27,665.17,4,0,252.75,67.66
+LungImg3.ome.tif,35e5298e-bd84-46ab-8e58-2ba6f1dd9cf2,Annotation,,Region*,Root object (Image),Polygon,203.46,624.52,1,0,269.42,70.84
+LungImg3.ome.tif,5e68523b-d79b-4072-8bd7-80752e6bd7ff,Annotation,,Region*,Root object (Image),Polygon,62.53,495.76,2,0,382.24,93.13
+LungImg3.ome.tif,742713e3-2256-4336-97bf-c4a23c9637ec,Annotation,,Region*,Root object (Image),Polygon,175.02,313.93,2,0,221.61,61.1

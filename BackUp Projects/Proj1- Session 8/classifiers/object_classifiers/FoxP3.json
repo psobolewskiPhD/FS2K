@@ -1,0 +1,15 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "ROI: 0.33 µm per pixel: FoxP3: Mean",
+    "pathClassEquals": "FoxP3",
+    "pathClassAbove": "FoxP3",
+    "threshold": 693.6433757324218
+  },
+  "pathClasses": [
+    "FoxP3"
+  ],
+  "filter": "DETECTIONS_ALL",
+  "timestamp": 1738971448281
+}
