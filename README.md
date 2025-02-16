@@ -33,8 +33,8 @@ Install [the Warpy extension](https://github.com/BIOP/qupath-extension-warpy) in
 [Warpy download here](https://github.com/biop/qupath-extension-warpy/releases)<br>
 There will be a number of .jar files - drag them into an open QuPath window to install, or create an Extensions folder in QuPath's *Preferences* <kbd>Edit > Preferences > Extensions</kbd> and place them in that folder.<br><br><br>
 Instructions for InstanSeg setup can be found by scrolling down to [Method 2- One Time Setup, here.](https://github.com/saramcardle/FS2K/blob/main/Session%204-%20Cell%20Detection.ipynb)<br>
-<img src= "Images/djlSetup.PNG" width="500"><br><br>
-<img src= "Images/instansegSetup.PNG" width="500"><br>
+<img src= "Images/djlSetup.PNG" width="800"><br><br>
+<img src= "Images/instansegSetup.PNG" width="800"><br>
 
 ### If you have time, watch this excellent introduction by the author of QuPath!
 [![PeteBankheadIntro](https://img.youtube.com/vi/HHo2BIacq8w/0.jpg)](https://youtu.be/HHo2BIacq8w?t=35)<br>
@@ -74,7 +74,7 @@ Start Here<br>
 [A biologist’s guide to planning and performing quantitative bioimaging experiments](https://pmc.ncbi.nlm.nih.gov/articles/PMC10298797/)<br>
 
 General<br>
-:heavy_dollar_sign:[Multiplex protein imaging in tumor biology - review](https://www.nature.com/articles/s41568-023-00657-4)
+:heavy_dollar_sign:[Multiplex protein imaging in tumor biology - review](https://www.nature.com/articles/s41568-023-00657-4)<br>
 [Creating and troubleshooting microscopy analysis workflows: Common challenges and common solutions](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13288)<br>
 [Developing open-source software for bioimage analysis: opportunities and challenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC8226416/)
 [Open-source deep-learning software for bioimage segmentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8108523/)<br>
