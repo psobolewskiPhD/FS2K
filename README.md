@@ -6,7 +6,10 @@ Zbigniew Mikulski<br>
 and
 Michael Nelson of [LOCI](https://loci.wisc.edu/)
 
-
+## Ask questions in the image.sc forum thread!
+We ask that the majority of questions be directed to the [image.sc forum thread here](https://forum.image.sc/t/question-thread-from-samples-to-knowledge-2025/108739), where it will be easiest for all of the hosts to respond to questions and issues as they have time.<br>
+If you are interested in keeping up with the topic, make sure to create an image.sc forum profile, and set the post to "Watching" - which will send a notification email whenever there is a new post.<br>
+<img src="Images/imagescWatching.PNG">
 
 ## Prepare for the workshop
 
@@ -62,6 +65,7 @@ Start Here<br>
 [A biologist’s guide to planning and performing quantitative bioimaging experiments](https://pmc.ncbi.nlm.nih.gov/articles/PMC10298797/)<br>
 
 General<br>
+:heavy_dollar_sign:[Multiplex protein imaging in tumor biology - review](https://www.nature.com/articles/s41568-023-00657-4)
 [Creating and troubleshooting microscopy analysis workflows: Common challenges and common solutions](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13288)<br>
 [Developing open-source software for bioimage analysis: opportunities and challenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC8226416/)
 [Open-source deep-learning software for bioimage segmentation](https://pmc.ncbi.nlm.nih.gov/articles/PMC8108523/)<br>
