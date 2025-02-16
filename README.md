@@ -23,14 +23,14 @@ Make sure to install QuPath **ahead of time**, as some companies/institutes/hosp
 <img src= "Images/downloadQuPath.PNG" width="500"><br>
 
 ### Download your data and scripts!
-If you wait until you arrive, you will be competing with everyone else for bandwidth!
+If you wait until you arrive, you will be competing with everyone else for bandwidth!<br>
 [Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)<br>
 <img src= "Images/downloadMaterials.PNG" width="500"><br>
 See steps 1 and 2 in Session 1 to create your first project!<br>
 
 ### Download the Warpy extension and InstanSeg models
 Install [the Warpy extension](https://github.com/BIOP/qupath-extension-warpy) into your copy of QuPath 0.6.0<br>
-[Warpy download here])https://github.com/biop/qupath-extension-warpy/releases)<br>
+[Warpy download here](https://github.com/biop/qupath-extension-warpy/releases)<br>
 There will be a number of .jar files - drag them into an open QuPath window to install, or create an Extensions folder in QuPath's *Preferences* <kbd>Edit > Preferences > Extensions</kbd> and place them in that folder.<br>
 Instructions for InstanSeg setup can be found by scrolling down to [Method 2- One Time Setup, here.](https://github.com/saramcardle/FS2K/blob/main/Session%204-%20Cell%20Detection.ipynb)<br>
 <img src= "Images/djlSetup.PNG" width="500"><br><br>
