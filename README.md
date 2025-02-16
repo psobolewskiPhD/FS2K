@@ -18,21 +18,23 @@ Please watch this short video which introduces some QuPath concepts and has some
 ![SoonToCreate!](www.youtubevideo.doesn'texistyet)<br>
 
 ### Install QuPath: we will be using: 0.6.0RC3
-Make sure to install this **ahead of time**, as some companies/institutes/hospitals **require administrator access** to download and set up QuPath.<br>
+Make sure to install QuPath **ahead of time**, as some companies/institutes/hospitals <span style="color:red">**require administrator access**</span> to download and set up QuPath.<br>
 [Get it here!](https://github.com/qupath/qupath/releases)<br>
 <img src= "Images/downloadQuPath.PNG" width="500"><br>
 
-### Download your images ahead of time!
+### Download your data and scripts!
+If you wait until you arrive, you will be competing with everyone else for bandwidth!
 [Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)<br>
 <img src= "Images/downloadMaterials.PNG" width="500"><br>
 See steps 1 and 2 in Session 1 to create your first project!<br>
 
 ### Download the Warpy extension and InstanSeg models
-And install it into your copy of QuPath 0.6.0<br>
+Install [the Warpy extension](https://github.com/BIOP/qupath-extension-warpy) into your copy of QuPath 0.6.0<br>
 [Warpy download here])https://github.com/biop/qupath-extension-warpy/releases)<br>
-There will be a number of .jar files - drag them into an open QuPath window to install, or create an Extensions folder in QuPath's *Preferences* <kbd>Edit > Preferences</kbd> and place them in that folder.<br>
+There will be a number of .jar files - drag them into an open QuPath window to install, or create an Extensions folder in QuPath's *Preferences* <kbd>Edit > Preferences > Extensions</kbd> and place them in that folder.<br>
 Instructions for InstanSeg setup can be found by scrolling down to [Method 2- One Time Setup, here.](https://github.com/saramcardle/FS2K/blob/main/Session%204-%20Cell%20Detection.ipynb)<br>
-
+<img src= "Images/djlSetup.PNG" width="500"><br><br>
+<img src= "Images/instansegSetup.PNG" width="500"><br>
 
 ### If you have time, watch this excellent introduction by the author of QuPath!
 [![PeteBankheadIntro](https://img.youtube.com/vi/HHo2BIacq8w/0.jpg)](https://youtu.be/HHo2BIacq8w?t=35)<br>
