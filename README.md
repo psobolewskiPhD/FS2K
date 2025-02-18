@@ -88,9 +88,9 @@ Do good things, not bad things!<br>
 
 # Acknowledgements
 [La Jolla Institute](https://www.lji.org/about-us/)
-Lisa Bouker, Admin Assistant Extrordinaire!
-Core facility staff
-IT
-Coordinaters
-CZI funding
+Lisa Bouker, Admin Assistant Extrordinaire!<br>
+Core facility staff<br>
+IT<br>
+Coordinaters<br>
+CZI funding<br>
 [Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)
