@@ -87,10 +87,11 @@ Do good things, not bad things!<br>
 [Reproducibility standards for machine learning in the life sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC9131851/)<br>
 
 # Acknowledgements
-[La Jolla Institute](https://www.lji.org/about-us/)
+Staff from the [La Jolla Institute](https://www.lji.org/about-us/), including <br>
 Lisa Bouker, Admin Assistant Extrordinaire!<br>
-Core facility staff<br>
 IT<br>
-Coordinaters<br>
-CZI funding<br>
+Facilities <br>
+<br>
+Funding: Chan Zuckerberg Iniatiative Imaging Scientist grant<br>
+<br>
 [Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)
