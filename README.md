@@ -15,7 +15,7 @@ If you are interested in keeping up with the topic, make sure to create an image
 
 ### Introductory video
 Please watch this short video which introduces some QuPath concepts and has some information on installation issues.<br>
-![SoonToCreate!](www.youtubevideo.doesn'texistyet)<br>
+[![Introduction video](https://img.youtube.com/vi/Vl9V5PxOQIc/0.jpg)](https://youtu.be/Vl9V5PxOQIc)<br>
 
 ### Install QuPath: we will be using: 0.6.0RC3
 Make sure to install QuPath **ahead of time**, as some companies/institutes/hospitals <span style="color:red">**require administrator access**</span> to download and set up QuPath.<br>
