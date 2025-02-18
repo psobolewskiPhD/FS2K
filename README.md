@@ -45,7 +45,7 @@ Or skip directly to [the part of the video discussing QuPath](https://youtu.be/H
 
 ## Additional resources
 ![knowledge](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d1Y3Bqa3loOWI5bnFhNmoxeHpzOTB5ZjVpZDV1eThpNGI0MXg4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXqw0Vpql4sHX9pCl4/giphy.gif)
-### Ask questions
+### Ask questions (the devs check here)
 https://forum.image.sc/tag/qupath<br>
 
 ### QuPath documentation for 0.5, the latest stable release<br>
@@ -69,7 +69,7 @@ https://github.com/Bayer-Group/paquo<br>
 
 ### Interesting reading - imaging and analysis
 Start Here<br>
-[Introduction to Bioimage Analysis](https://bioimagebook.github.io/index.html)<br>
+[!!!Introduction to Bioimage Analysis!!!](https://bioimagebook.github.io/index.html)<br>
 [Workflows and Components of Bioimage Analysis](https://link.springer.com/chapter/10.1007/978-3-030-22386-1_1)<br>
 [A biologist’s guide to planning and performing quantitative bioimaging experiments](https://pmc.ncbi.nlm.nih.gov/articles/PMC10298797/)<br>
 
