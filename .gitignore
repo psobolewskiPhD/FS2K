@@ -172,3 +172,6 @@ cython_debug/
 
 # macOS file
 .DS_Store
+
+# jupyter-book build output
+_build/
