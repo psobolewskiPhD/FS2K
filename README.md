@@ -26,6 +26,7 @@ Make sure to install QuPath **ahead of time**, as some companies/institutes/hosp
 If you wait until you arrive, you will be competing with everyone else for bandwidth!<br>
 [Download the files from Google Drive](https://drive.google.com/drive/u/1/folders/1t5DtJriZdPpNpuVJBMACkN3Ra16QUjKu)<br>
 <img src= "Images/downloadMaterials.PNG" width="500"><br>
+You must unzip your files before using them!
 See steps 1 and 2 in Session 1 to create your first project!<br>
 
 ### Download the Warpy extension and InstanSeg models
