@@ -2,14 +2,14 @@
   "version": "0.6.0-rc3",
   "createTimestamp": 1738008882802,
   "modifyTimestamp": 1738008882802,
-  "uri": "file:/F:/Random/QuPath%20Workshop%202025/Proj1%20-%20Session4/project.qpproj",
+  "uri": "file:/C:/Users/smcardle/Documents/GitHub/FS2K/BackUp%20Projects/Proj1-%20Session%204/project.qpproj",
   "lastID": 15,
   "images": [
     {
       "serverBuilder": {
         "builderType": "uri",
         "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
-        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg1.ome.tif",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors2/LungImg1.ome.tif",
         "args": [
           "--series",
           "0"
@@ -129,7 +129,7 @@
         }
       },
       "entryID": 1,
-      "randomizedName": "6db53ccb-77fb-477b-a6df-2f9837f2d59b",
+      "randomizedName": "453f8bd9-4668-4989-862f-eb9c98c69ab8",
       "imageName": "LungImg1.ome.tif",
       "metadata": {}
     },
@@ -137,7 +137,7 @@
       "serverBuilder": {
         "builderType": "uri",
         "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
-        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg2.ome.tif",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors2/LungImg2.ome.tif",
         "args": [
           "--series",
           "0"
@@ -257,7 +257,7 @@
         }
       },
       "entryID": 2,
-      "randomizedName": "21440c5d-35de-45a1-8b3a-679236014a9c",
+      "randomizedName": "0fcf5ae7-fcea-4be9-9ec8-8ae5b0ce8581",
       "imageName": "LungImg2.ome.tif",
       "metadata": {}
     },
@@ -265,7 +265,7 @@
       "serverBuilder": {
         "builderType": "uri",
         "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
-        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg3.ome.tif",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors2/LungImg3.ome.tif",
         "args": [
           "--series",
           "0"
@@ -385,7 +385,7 @@
         }
       },
       "entryID": 3,
-      "randomizedName": "82b34936-97e6-460e-9214-7d6a6e631085",
+      "randomizedName": "e6d18c7a-57a8-4f2f-8f66-fd72783ccd7b",
       "imageName": "LungImg3.ome.tif",
       "metadata": {}
     }

@@ -2,7 +2,7 @@
   "pathClasses": [
     {
       "name": "Tumor",
-      "color": -65281
+      "color": -3670016
     },
     {
       "name": "Stroma",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Other",
-      "color": -14336
+      "color": -65281
     },
     {
       "name": "Region*",

@@ -1,7 +1,7 @@
 {
   "builderType": "uri",
   "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
-  "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors/Reexporft/LungImg2.ome.tif",
+  "uri": "file:/F:/Random/QuPath%20Workshop%202025/Lung%20Tumors2/LungImg2.ome.tif",
   "args": [
     "--series",
     "0"
