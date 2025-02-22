@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# macOS file
+.DS_Store
+
+# jupyter-book build output
+_build/

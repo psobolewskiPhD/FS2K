@@ -1,0 +1,18 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+chapters:
+- file: Session 1- Visualization.ipynb
+- file: Session 2- Tissue Annotations.ipynb
+- file: Session 3- Pixel Classifier.ipynb
+- file: Session 4- Cell Detection.ipynb
+- file: Session 5 - Workflows to Scripts.ipynb
+- file: Session 6 - Classifying Cells pt1.ipynb
+- file: Session 7 - More Difficult Classifiers.ipynb
+- file: Session 8 - Creating Multiplex Classifiers.ipynb
+- file: Session 9 - Data Export and Simplification.ipynb
+- file: Session 10- Combining Images.ipynb
+- file: Session 11 - Pixel Classifier for non-round cells.ipynb
+- file: Session 12- Spatial Analysis.ipynb
