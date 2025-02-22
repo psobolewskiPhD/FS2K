@@ -47,25 +47,25 @@ Or skip directly to [the part of the video discussing QuPath](https://youtu.be/H
 ## Additional resources
 ![knowledge](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2d1Y3Bqa3loOWI5bnFhNmoxeHpzOTB5ZjVpZDV1eThpNGI0MXg4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SXqw0Vpql4sHX9pCl4/giphy.gif)
 ### Ask questions (the devs check here)
-https://forum.image.sc/tag/qupath<br>
+[https://forum.image.sc/tag/qupath](https://forum.image.sc/tag/qupath)<br>
 
 ### QuPath documentation for 0.5, the latest stable release<br>
-Main docs - https://qupath.readthedocs.io/en/0.5/ <br>
-Scripting Javadocs - https://qupath.github.io/javadoc/docs/<br>
+Main docs - [https://qupath.readthedocs.io/en/0.5/](https://qupath.readthedocs.io/en/0.5/) <br>
+Scripting Javadocs - [https://qupath.github.io/javadoc/docs/](https://qupath.github.io/javadoc/docs/)<br>
 
 ### Introduction to QuPath scripting (unofficial)
-https://www.imagescientist.com/image-analysis<br>
+[https://www.imagescientist.com/image-analysis](https://www.imagescientist.com/image-analysis)<br>
 
 ### Useful plugins and associated software
 #### Segmentation<br>
-https://github.com/qupath/qupath-extension-stardist<br>
-https://github.com/BIOP/qupath-extension-cellpose<br>
-https://github.com/qupath/qupath-extension-instanseg<br>
+[https://github.com/qupath/qupath-extension-stardist](https://github.com/qupath/qupath-extension-stardist)<br>
+[https://github.com/BIOP/qupath-extension-cellpose](https://github.com/BIOP/qupath-extension-cellpose)<br>
+[https://github.com/qupath/qupath-extension-instanseg](https://github.com/qupath/qupath-extension-instanseg)<br>
 #### Aligning images<br>
-https://github.com/qupath/qupath-extension-align<br>
-https://imagej.net/plugins/bdv/warpy/warpy-image-combiner<br>
+[https://github.com/qupath/qupath-extension-align](https://github.com/qupath/qupath-extension-align)<br>
+[https://imagej.net/plugins/bdv/warpy/warpy-image-combiner](https://imagej.net/plugins/bdv/warpy/warpy-image-combiner)<br>
 #### Python access<br>
-https://github.com/Bayer-Group/paquo<br>
+[https://github.com/Bayer-Group/paquo](https://github.com/Bayer-Group/paquo)<br>
 
 
 ### Interesting reading - imaging and analysis
@@ -97,4 +97,5 @@ Facilities <br>
 <br>
 Funding: Chan Zuckerberg Iniatiative Imaging Scientist grant<br>
 <br>
-[Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)
+[Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)<br>
+And, Peter Sobelewski, for helping convert this repo into a classier website/Gitbook!
