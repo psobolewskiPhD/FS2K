@@ -61,6 +61,7 @@ Scripting Javadocs - [https://qupath.github.io/javadoc/docs/](https://qupath.git
 [https://github.com/qupath/qupath-extension-stardist](https://github.com/qupath/qupath-extension-stardist)<br>
 [https://github.com/BIOP/qupath-extension-cellpose](https://github.com/BIOP/qupath-extension-cellpose)<br>
 [https://github.com/qupath/qupath-extension-instanseg](https://github.com/qupath/qupath-extension-instanseg)<br>
+[https://github.com/ksugar/qupath-extension-sam](https://github.com/ksugar/qupath-extension-sam)
 #### Aligning images<br>
 [https://github.com/qupath/qupath-extension-align](https://github.com/qupath/qupath-extension-align)<br>
 [https://imagej.net/plugins/bdv/warpy/warpy-image-combiner](https://imagej.net/plugins/bdv/warpy/warpy-image-combiner)<br>
