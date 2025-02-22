@@ -91,7 +91,7 @@ Do good things, not bad things!<br>
 [Reproducibility standards for machine learning in the life sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC9131851/)<br>
 
 # Acknowledgements
-Peter Sobolewski, for helping convert this repo into a classier website/Gitbook!
+Peter Sobolewski, for helping convert this repo into a classier website/Gitbook! <br>
 Staff from the [La Jolla Institute](https://www.lji.org/about-us/), including <br>
 Lisa Bouker, Admin Assistant Extrordinaire!<br>
 Zeynel Savari for AV and IT help<br>
