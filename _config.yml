@@ -30,8 +30,6 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: true
-  static_path:
-    - Images
 
 parse:
   myst_enable_extensions:
