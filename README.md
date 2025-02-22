@@ -90,12 +90,13 @@ Do good things, not bad things!<br>
 [Reproducibility standards for machine learning in the life sciences](https://pmc.ncbi.nlm.nih.gov/articles/PMC9131851/)<br>
 
 # Acknowledgements
+Peter Sobolewski, for helping convert this repo into a classier website/Gitbook!
 Staff from the [La Jolla Institute](https://www.lji.org/about-us/), including <br>
 Lisa Bouker, Admin Assistant Extrordinaire!<br>
-IT<br>
-Facilities <br>
+Zeynel Savari for AV and IT help<br>
+The LJI Facilities department<br>
 <br>
 Funding: Chan Zuckerberg Iniatiative Imaging Scientist grant<br>
 <br>
 [Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)<br>
-And, Peter Sobelewski, for helping convert this repo into a classier website/Gitbook!
+
