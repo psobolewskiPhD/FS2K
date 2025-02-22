@@ -1,0 +1,83 @@
+{
+  "builderType": "uri",
+  "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+  "uri": "file:/F:/Random/QuPath%20Workshop%202025/recrop.ome.tif",
+  "args": [
+    "--series",
+    "0"
+  ],
+  "metadata": {
+    "name": "Tonsil_HE",
+    "width": 10102,
+    "height": 12375,
+    "sizeZ": 1,
+    "sizeT": 1,
+    "channelType": "DEFAULT",
+    "isRGB": true,
+    "pixelType": "UINT8",
+    "levels": [
+      {
+        "downsample": 1.0,
+        "width": 10102,
+        "height": 12375
+      },
+      {
+        "downsample": 2.0,
+        "width": 5051,
+        "height": 6187
+      },
+      {
+        "downsample": 4.0,
+        "width": 2525,
+        "height": 3093
+      },
+      {
+        "downsample": 8.0,
+        "width": 1262,
+        "height": 1546
+      },
+      {
+        "downsample": 16.0,
+        "width": 631,
+        "height": 773
+      },
+      {
+        "downsample": 32.0,
+        "width": 315,
+        "height": 386
+      }
+    ],
+    "channels": [
+      {
+        "name": "Red",
+        "color": -65536
+      },
+      {
+        "name": "Green",
+        "color": -16711936
+      },
+      {
+        "name": "Blue",
+        "color": -16776961
+      }
+    ],
+    "pixelCalibration": {
+      "pixelWidth": {
+        "value": 0.22023102234243724,
+        "unit": "µm"
+      },
+      "pixelHeight": {
+        "value": 0.22023102234243724,
+        "unit": "µm"
+      },
+      "zSpacing": {
+        "value": 1.0,
+        "unit": "z-slice"
+      },
+      "timeUnit": "SECONDS",
+      "timepoints": []
+    },
+    "preferredTileWidth": 256,
+    "preferredTileHeight": 256
+  }
+}

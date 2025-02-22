@@ -1,0 +1,1550 @@
+{
+  "builderType": "channels",
+  "builder": {
+    "builderType": "color",
+    "builder": {
+      "builderType": "pyramidize",
+      "builder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/F:/Random/QuPath%20Workshop%202025/Tonsil_flip.ome.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "Tonsil_flip.ome.tif",
+          "width": 6879,
+          "height": 6392,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 6879,
+              "height": 6392
+            }
+          ],
+          "channels": [
+            {
+              "name": "Hoechst",
+              "color": 16711680
+            },
+            {
+              "name": "AF1",
+              "color": 65280
+            },
+            {
+              "name": "CD31",
+              "color": 255
+            },
+            {
+              "name": "CD11c",
+              "color": 16769024
+            },
+            {
+              "name": "CD68",
+              "color": 57568
+            },
+            {
+              "name": "CD163",
+              "color": 16711904
+            },
+            {
+              "name": "CD20",
+              "color": 16763904
+            },
+            {
+              "name": "CD4",
+              "color": 65518
+            },
+            {
+              "name": "CD8a",
+              "color": 16711918
+            },
+            {
+              "name": "Granzyme-B",
+              "color": 13434624
+            },
+            {
+              "name": "PD-L1",
+              "color": 829170
+            },
+            {
+              "name": "FOXP3",
+              "color": 15862919
+            },
+            {
+              "name": "E-Cadherin",
+              "color": 6877708
+            },
+            {
+              "name": "PD-1",
+              "color": 805362
+            },
+            {
+              "name": "Ki-67",
+              "color": 15862827
+            },
+            {
+              "name": "CD45",
+              "color": 848396
+            },
+            {
+              "name": "Pan-CK",
+              "color": 2821362
+            },
+            {
+              "name": "Vimentin",
+              "color": 15878412
+            },
+            {
+              "name": "SMA",
+              "color": 848488
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "metadata": {
+        "name": "Tonsil_flip.ome.tif",
+        "width": 6879,
+        "height": 6392,
+        "sizeZ": 1,
+        "sizeT": 1,
+        "channelType": "DEFAULT",
+        "isRGB": false,
+        "pixelType": "UINT16",
+        "levels": [
+          {
+            "downsample": 1.0,
+            "width": 6879,
+            "height": 6392
+          },
+          {
+            "downsample": 4.0,
+            "width": 1719,
+            "height": 1598
+          },
+          {
+            "downsample": 16.0,
+            "width": 429,
+            "height": 399
+          }
+        ],
+        "channels": [
+          {
+            "name": "Hoechst",
+            "color": -13684828
+          },
+          {
+            "name": "AF1",
+            "color": -1809940
+          },
+          {
+            "name": "CD31",
+            "color": -16776961
+          },
+          {
+            "name": "CD11c",
+            "color": -8192
+          },
+          {
+            "name": "CD68",
+            "color": -16719648
+          },
+          {
+            "name": "CD163",
+            "color": -65312
+          },
+          {
+            "name": "CD20",
+            "color": -13312
+          },
+          {
+            "name": "CD4",
+            "color": -16711698
+          },
+          {
+            "name": "CD8a",
+            "color": -65298
+          },
+          {
+            "name": "Granzyme-B",
+            "color": -3342592
+          },
+          {
+            "name": "PD-L1",
+            "color": -15948046
+          },
+          {
+            "name": "FOXP3",
+            "color": -914297
+          },
+          {
+            "name": "E-Cadherin",
+            "color": -9899508
+          },
+          {
+            "name": "PD-1",
+            "color": -15971854
+          },
+          {
+            "name": "Ki-67",
+            "color": -914389
+          },
+          {
+            "name": "CD45",
+            "color": -15928820
+          },
+          {
+            "name": "Pan-CK",
+            "color": -13955854
+          },
+          {
+            "name": "Vimentin",
+            "color": -898804
+          },
+          {
+            "name": "SMA",
+            "color": -15928728
+          }
+        ],
+        "pixelCalibration": {
+          "pixelWidth": {
+            "value": 0.325,
+            "unit": "µm"
+          },
+          "pixelHeight": {
+            "value": 0.325,
+            "unit": "µm"
+          },
+          "zSpacing": {
+            "value": 1.0,
+            "unit": "z-slice"
+          },
+          "timeUnit": "SECONDS",
+          "timepoints": []
+        },
+        "preferredTileWidth": 256,
+        "preferredTileHeight": 256
+      }
+    },
+    "transforms": [
+      {
+        "channelName": "Hoechst"
+      },
+      {
+        "channelName": "AF1"
+      },
+      {
+        "channelName": "CD31"
+      },
+      {
+        "channelName": "CD11c"
+      },
+      {
+        "channelName": "CD68"
+      },
+      {
+        "channelName": "CD163"
+      },
+      {
+        "channelName": "CD20"
+      },
+      {
+        "channelName": "CD4"
+      },
+      {
+        "channelName": "CD8a"
+      },
+      {
+        "channelName": "Granzyme-B"
+      },
+      {
+        "channelName": "PD-L1"
+      },
+      {
+        "channelName": "FOXP3"
+      },
+      {
+        "channelName": "E-Cadherin"
+      },
+      {
+        "channelName": "PD-1"
+      },
+      {
+        "channelName": "Ki-67"
+      },
+      {
+        "channelName": "CD45"
+      },
+      {
+        "channelName": "Pan-CK"
+      },
+      {
+        "channelName": "Vimentin"
+      },
+      {
+        "channelName": "SMA"
+      }
+    ],
+    "metadata": {
+      "name": "Tonsil_flip.ome.tif (19 channels)",
+      "width": 6879,
+      "height": 6392,
+      "sizeZ": 1,
+      "sizeT": 1,
+      "channelType": "DEFAULT",
+      "isRGB": false,
+      "pixelType": "FLOAT32",
+      "levels": [
+        {
+          "downsample": 1.0,
+          "width": 6879,
+          "height": 6392
+        },
+        {
+          "downsample": 4.0,
+          "width": 1719,
+          "height": 1598
+        },
+        {
+          "downsample": 16.0,
+          "width": 429,
+          "height": 399
+        }
+      ],
+      "channels": [
+        {
+          "name": "Hoechst",
+          "color": -13684828
+        },
+        {
+          "name": "AF1",
+          "color": -1809940
+        },
+        {
+          "name": "CD31",
+          "color": -16776961
+        },
+        {
+          "name": "CD11c",
+          "color": -8192
+        },
+        {
+          "name": "CD68",
+          "color": -16719648
+        },
+        {
+          "name": "CD163",
+          "color": -65312
+        },
+        {
+          "name": "CD20",
+          "color": -13312
+        },
+        {
+          "name": "CD4",
+          "color": -16711698
+        },
+        {
+          "name": "CD8a",
+          "color": -65298
+        },
+        {
+          "name": "Granzyme-B",
+          "color": -3342592
+        },
+        {
+          "name": "PD-L1",
+          "color": -15948046
+        },
+        {
+          "name": "FOXP3",
+          "color": -914297
+        },
+        {
+          "name": "E-Cadherin",
+          "color": -9899508
+        },
+        {
+          "name": "PD-1",
+          "color": -15971854
+        },
+        {
+          "name": "Ki-67",
+          "color": -914389
+        },
+        {
+          "name": "CD45",
+          "color": -15928820
+        },
+        {
+          "name": "Pan-CK",
+          "color": -13955854
+        },
+        {
+          "name": "Vimentin",
+          "color": -898804
+        },
+        {
+          "name": "SMA",
+          "color": -15928728
+        }
+      ],
+      "pixelCalibration": {
+        "pixelWidth": {
+          "value": 0.325,
+          "unit": "µm"
+        },
+        "pixelHeight": {
+          "value": 0.325,
+          "unit": "µm"
+        },
+        "zSpacing": {
+          "value": 1.0,
+          "unit": "z-slice"
+        },
+        "timeUnit": "SECONDS",
+        "timepoints": []
+      },
+      "preferredTileWidth": 256,
+      "preferredTileHeight": 256
+    }
+  },
+  "channels": [
+    {
+      "builderType": "color",
+      "builder": {
+        "builderType": "pyramidize",
+        "builder": {
+          "builderType": "uri",
+          "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+          "uri": "file:/F:/Random/QuPath%20Workshop%202025/Tonsil_flip.ome.tif",
+          "args": [
+            "--series",
+            "0"
+          ],
+          "metadata": {
+            "name": "Tonsil_flip.ome.tif",
+            "width": 6879,
+            "height": 6392,
+            "sizeZ": 1,
+            "sizeT": 1,
+            "channelType": "DEFAULT",
+            "isRGB": false,
+            "pixelType": "UINT16",
+            "levels": [
+              {
+                "downsample": 1.0,
+                "width": 6879,
+                "height": 6392
+              }
+            ],
+            "channels": [
+              {
+                "name": "Hoechst",
+                "color": 16711680
+              },
+              {
+                "name": "AF1",
+                "color": 65280
+              },
+              {
+                "name": "CD31",
+                "color": 255
+              },
+              {
+                "name": "CD11c",
+                "color": 16769024
+              },
+              {
+                "name": "CD68",
+                "color": 57568
+              },
+              {
+                "name": "CD163",
+                "color": 16711904
+              },
+              {
+                "name": "CD20",
+                "color": 16763904
+              },
+              {
+                "name": "CD4",
+                "color": 65518
+              },
+              {
+                "name": "CD8a",
+                "color": 16711918
+              },
+              {
+                "name": "Granzyme-B",
+                "color": 13434624
+              },
+              {
+                "name": "PD-L1",
+                "color": 829170
+              },
+              {
+                "name": "FOXP3",
+                "color": 15862919
+              },
+              {
+                "name": "E-Cadherin",
+                "color": 6877708
+              },
+              {
+                "name": "PD-1",
+                "color": 805362
+              },
+              {
+                "name": "Ki-67",
+                "color": 15862827
+              },
+              {
+                "name": "CD45",
+                "color": 848396
+              },
+              {
+                "name": "Pan-CK",
+                "color": 2821362
+              },
+              {
+                "name": "Vimentin",
+                "color": 15878412
+              },
+              {
+                "name": "SMA",
+                "color": 848488
+              }
+            ],
+            "pixelCalibration": {
+              "pixelWidth": {
+                "value": 0.325,
+                "unit": "µm"
+              },
+              "pixelHeight": {
+                "value": 0.325,
+                "unit": "µm"
+              },
+              "zSpacing": {
+                "value": 1.0,
+                "unit": "z-slice"
+              },
+              "timeUnit": "SECONDS",
+              "timepoints": []
+            },
+            "preferredTileWidth": 256,
+            "preferredTileHeight": 256
+          }
+        },
+        "metadata": {
+          "name": "Tonsil_flip.ome.tif",
+          "width": 6879,
+          "height": 6392,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 6879,
+              "height": 6392
+            },
+            {
+              "downsample": 4.0,
+              "width": 1719,
+              "height": 1598
+            },
+            {
+              "downsample": 16.0,
+              "width": 429,
+              "height": 399
+            }
+          ],
+          "channels": [
+            {
+              "name": "Hoechst",
+              "color": -13684828
+            },
+            {
+              "name": "AF1",
+              "color": -1809940
+            },
+            {
+              "name": "CD31",
+              "color": -16776961
+            },
+            {
+              "name": "CD11c",
+              "color": -8192
+            },
+            {
+              "name": "CD68",
+              "color": -16719648
+            },
+            {
+              "name": "CD163",
+              "color": -65312
+            },
+            {
+              "name": "CD20",
+              "color": -13312
+            },
+            {
+              "name": "CD4",
+              "color": -16711698
+            },
+            {
+              "name": "CD8a",
+              "color": -65298
+            },
+            {
+              "name": "Granzyme-B",
+              "color": -3342592
+            },
+            {
+              "name": "PD-L1",
+              "color": -15948046
+            },
+            {
+              "name": "FOXP3",
+              "color": -914297
+            },
+            {
+              "name": "E-Cadherin",
+              "color": -9899508
+            },
+            {
+              "name": "PD-1",
+              "color": -15971854
+            },
+            {
+              "name": "Ki-67",
+              "color": -914389
+            },
+            {
+              "name": "CD45",
+              "color": -15928820
+            },
+            {
+              "name": "Pan-CK",
+              "color": -13955854
+            },
+            {
+              "name": "Vimentin",
+              "color": -898804
+            },
+            {
+              "name": "SMA",
+              "color": -15928728
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.325,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "transforms": [
+        {
+          "channelName": "Hoechst"
+        },
+        {
+          "channelName": "AF1"
+        },
+        {
+          "channelName": "CD31"
+        },
+        {
+          "channelName": "CD11c"
+        },
+        {
+          "channelName": "CD68"
+        },
+        {
+          "channelName": "CD163"
+        },
+        {
+          "channelName": "CD20"
+        },
+        {
+          "channelName": "CD4"
+        },
+        {
+          "channelName": "CD8a"
+        },
+        {
+          "channelName": "Granzyme-B"
+        },
+        {
+          "channelName": "PD-L1"
+        },
+        {
+          "channelName": "FOXP3"
+        },
+        {
+          "channelName": "E-Cadherin"
+        },
+        {
+          "channelName": "PD-1"
+        },
+        {
+          "channelName": "Ki-67"
+        },
+        {
+          "channelName": "CD45"
+        },
+        {
+          "channelName": "Pan-CK"
+        },
+        {
+          "channelName": "Vimentin"
+        },
+        {
+          "channelName": "SMA"
+        }
+      ],
+      "metadata": {
+        "name": "Tonsil_flip.ome.tif (19 channels)",
+        "width": 6879,
+        "height": 6392,
+        "sizeZ": 1,
+        "sizeT": 1,
+        "channelType": "DEFAULT",
+        "isRGB": false,
+        "pixelType": "FLOAT32",
+        "levels": [
+          {
+            "downsample": 1.0,
+            "width": 6879,
+            "height": 6392
+          },
+          {
+            "downsample": 4.0,
+            "width": 1719,
+            "height": 1598
+          },
+          {
+            "downsample": 16.0,
+            "width": 429,
+            "height": 399
+          }
+        ],
+        "channels": [
+          {
+            "name": "Hoechst",
+            "color": -13684828
+          },
+          {
+            "name": "AF1",
+            "color": -1809940
+          },
+          {
+            "name": "CD31",
+            "color": -16776961
+          },
+          {
+            "name": "CD11c",
+            "color": -8192
+          },
+          {
+            "name": "CD68",
+            "color": -16719648
+          },
+          {
+            "name": "CD163",
+            "color": -65312
+          },
+          {
+            "name": "CD20",
+            "color": -13312
+          },
+          {
+            "name": "CD4",
+            "color": -16711698
+          },
+          {
+            "name": "CD8a",
+            "color": -65298
+          },
+          {
+            "name": "Granzyme-B",
+            "color": -3342592
+          },
+          {
+            "name": "PD-L1",
+            "color": -15948046
+          },
+          {
+            "name": "FOXP3",
+            "color": -914297
+          },
+          {
+            "name": "E-Cadherin",
+            "color": -9899508
+          },
+          {
+            "name": "PD-1",
+            "color": -15971854
+          },
+          {
+            "name": "Ki-67",
+            "color": -914389
+          },
+          {
+            "name": "CD45",
+            "color": -15928820
+          },
+          {
+            "name": "Pan-CK",
+            "color": -13955854
+          },
+          {
+            "name": "Vimentin",
+            "color": -898804
+          },
+          {
+            "name": "SMA",
+            "color": -15928728
+          }
+        ],
+        "pixelCalibration": {
+          "pixelWidth": {
+            "value": 0.325,
+            "unit": "µm"
+          },
+          "pixelHeight": {
+            "value": 0.325,
+            "unit": "µm"
+          },
+          "zSpacing": {
+            "value": 1.0,
+            "unit": "z-slice"
+          },
+          "timeUnit": "SECONDS",
+          "timepoints": []
+        },
+        "preferredTileWidth": 256,
+        "preferredTileHeight": 256
+      }
+    },
+    {
+      "builderType": "transforminterpolate",
+      "metadata": {
+        "name": "Tonsil_HE (AffineTransform[[0.67660679795697, 0.005808609419093, 129.6986252236824], [-0.005510849472531, 0.676996176348629, -1767.327265530661]])",
+        "width": 6907,
+        "height": 8434,
+        "sizeZ": 1,
+        "sizeT": 1,
+        "channelType": "DEFAULT",
+        "isRGB": false,
+        "pixelType": "UINT8",
+        "levels": [
+          {
+            "downsample": 1.0,
+            "width": 6907,
+            "height": 8434
+          },
+          {
+            "downsample": 2.0,
+            "width": 3453,
+            "height": 4217
+          },
+          {
+            "downsample": 4.0,
+            "width": 1726,
+            "height": 2108
+          },
+          {
+            "downsample": 8.0,
+            "width": 863,
+            "height": 1054
+          },
+          {
+            "downsample": 16.0,
+            "width": 431,
+            "height": 527
+          },
+          {
+            "downsample": 32.0,
+            "width": 215,
+            "height": 263
+          }
+        ],
+        "channels": [
+          {
+            "name": "Red",
+            "color": -65536
+          },
+          {
+            "name": "Green",
+            "color": -16711936
+          },
+          {
+            "name": "Blue",
+            "color": -16776961
+          },
+          {
+            "name": "Hematoxylin",
+            "color": -11383865
+          },
+          {
+            "name": "Eosin",
+            "color": -4256813
+          }
+        ],
+        "pixelCalibration": {
+          "pixelWidth": {
+            "value": 1.0,
+            "unit": "px"
+          },
+          "pixelHeight": {
+            "value": 1.0,
+            "unit": "px"
+          },
+          "zSpacing": {
+            "value": 1.0,
+            "unit": "z-slice"
+          },
+          "timeUnit": "SECONDS",
+          "timepoints": []
+        },
+        "preferredTileWidth": 256,
+        "preferredTileHeight": 256
+      },
+      "builder": {
+        "builderType": "channels",
+        "builder": {
+          "builderType": "uri",
+          "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+          "uri": "file:/F:/Random/QuPath%20Workshop%202025/recrop.ome.tif",
+          "args": [
+            "--series",
+            "0"
+          ],
+          "metadata": {
+            "name": "Tonsil_HE",
+            "width": 10102,
+            "height": 12375,
+            "sizeZ": 1,
+            "sizeT": 1,
+            "channelType": "DEFAULT",
+            "isRGB": true,
+            "pixelType": "UINT8",
+            "levels": [
+              {
+                "downsample": 1.0,
+                "width": 10102,
+                "height": 12375
+              },
+              {
+                "downsample": 2.0,
+                "width": 5051,
+                "height": 6187
+              },
+              {
+                "downsample": 4.0,
+                "width": 2525,
+                "height": 3093
+              },
+              {
+                "downsample": 8.0,
+                "width": 1262,
+                "height": 1546
+              },
+              {
+                "downsample": 16.0,
+                "width": 631,
+                "height": 773
+              },
+              {
+                "downsample": 32.0,
+                "width": 315,
+                "height": 386
+              }
+            ],
+            "channels": [
+              {
+                "name": "Red",
+                "color": -65536
+              },
+              {
+                "name": "Green",
+                "color": -16711936
+              },
+              {
+                "name": "Blue",
+                "color": -16776961
+              }
+            ],
+            "pixelCalibration": {
+              "pixelWidth": {
+                "value": 0.22023102234243724,
+                "unit": "µm"
+              },
+              "pixelHeight": {
+                "value": 0.22023102234243724,
+                "unit": "µm"
+              },
+              "zSpacing": {
+                "value": 1.0,
+                "unit": "z-slice"
+              },
+              "timeUnit": "SECONDS",
+              "timepoints": []
+            },
+            "preferredTileWidth": 256,
+            "preferredTileHeight": 256
+          }
+        },
+        "channels": [
+          {
+            "builderType": "uri",
+            "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+            "uri": "file:/F:/Random/QuPath%20Workshop%202025/recrop.ome.tif",
+            "args": [
+              "--series",
+              "0"
+            ],
+            "metadata": {
+              "name": "Tonsil_HE",
+              "width": 10102,
+              "height": 12375,
+              "sizeZ": 1,
+              "sizeT": 1,
+              "channelType": "DEFAULT",
+              "isRGB": true,
+              "pixelType": "UINT8",
+              "levels": [
+                {
+                  "downsample": 1.0,
+                  "width": 10102,
+                  "height": 12375
+                },
+                {
+                  "downsample": 2.0,
+                  "width": 5051,
+                  "height": 6187
+                },
+                {
+                  "downsample": 4.0,
+                  "width": 2525,
+                  "height": 3093
+                },
+                {
+                  "downsample": 8.0,
+                  "width": 1262,
+                  "height": 1546
+                },
+                {
+                  "downsample": 16.0,
+                  "width": 631,
+                  "height": 773
+                },
+                {
+                  "downsample": 32.0,
+                  "width": 315,
+                  "height": 386
+                }
+              ],
+              "channels": [
+                {
+                  "name": "Red",
+                  "color": -65536
+                },
+                {
+                  "name": "Green",
+                  "color": -16711936
+                },
+                {
+                  "name": "Blue",
+                  "color": -16776961
+                }
+              ],
+              "pixelCalibration": {
+                "pixelWidth": {
+                  "value": 0.22023102234243724,
+                  "unit": "µm"
+                },
+                "pixelHeight": {
+                  "value": 0.22023102234243724,
+                  "unit": "µm"
+                },
+                "zSpacing": {
+                  "value": 1.0,
+                  "unit": "z-slice"
+                },
+                "timeUnit": "SECONDS",
+                "timepoints": []
+              },
+              "preferredTileWidth": 256,
+              "preferredTileHeight": 256
+            }
+          },
+          {
+            "builderType": "color_deconvolved",
+            "builder": {
+              "builderType": "uri",
+              "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+              "uri": "file:/F:/Random/QuPath%20Workshop%202025/recrop.ome.tif",
+              "args": [
+                "--series",
+                "0"
+              ],
+              "metadata": {
+                "name": "Tonsil_HE",
+                "width": 10102,
+                "height": 12375,
+                "sizeZ": 1,
+                "sizeT": 1,
+                "channelType": "DEFAULT",
+                "isRGB": true,
+                "pixelType": "UINT8",
+                "levels": [
+                  {
+                    "downsample": 1.0,
+                    "width": 10102,
+                    "height": 12375
+                  },
+                  {
+                    "downsample": 2.0,
+                    "width": 5051,
+                    "height": 6187
+                  },
+                  {
+                    "downsample": 4.0,
+                    "width": 2525,
+                    "height": 3093
+                  },
+                  {
+                    "downsample": 8.0,
+                    "width": 1262,
+                    "height": 1546
+                  },
+                  {
+                    "downsample": 16.0,
+                    "width": 631,
+                    "height": 773
+                  },
+                  {
+                    "downsample": 32.0,
+                    "width": 315,
+                    "height": 386
+                  }
+                ],
+                "channels": [
+                  {
+                    "name": "Red",
+                    "color": -65536
+                  },
+                  {
+                    "name": "Green",
+                    "color": -16711936
+                  },
+                  {
+                    "name": "Blue",
+                    "color": -16776961
+                  }
+                ],
+                "pixelCalibration": {
+                  "pixelWidth": {
+                    "value": 0.22023102234243724,
+                    "unit": "µm"
+                  },
+                  "pixelHeight": {
+                    "value": 0.22023102234243724,
+                    "unit": "µm"
+                  },
+                  "zSpacing": {
+                    "value": 1.0,
+                    "unit": "z-slice"
+                  },
+                  "timeUnit": "SECONDS",
+                  "timepoints": []
+                },
+                "preferredTileWidth": 256,
+                "preferredTileHeight": 256
+              }
+            },
+            "stains": {
+              "name": "H\u0026E estimated",
+              "stain1": {
+                "r": 0.6777271485260201,
+                "g": 0.7021034384730046,
+                "b": 0.218487239524815,
+                "name": "Hematoxylin",
+                "isResidual": false
+              },
+              "stain2": {
+                "r": 0.24939217965305024,
+                "g": 0.9532118086739094,
+                "b": 0.17085311976231232,
+                "name": "Eosin",
+                "isResidual": false
+              },
+              "stain3": {
+                "r": -0.1828200685846646,
+                "g": -0.12691232061494856,
+                "b": 0.9749205533779801,
+                "name": "Residual",
+                "isResidual": true
+              },
+              "maxRed": 234.0,
+              "maxGreen": 231.0,
+              "maxBlue": 237.0
+            },
+            "channels": [
+              1,
+              2
+            ],
+            "metadata": {
+              "name": "Tonsil_HE (Color deconvolution stains: Hematoxylin: 0.678 0.702 0.218, Eosin: 0.249 0.953 0.171, Residual: -0.183 -0.127 0.975)",
+              "width": 10102,
+              "height": 12375,
+              "sizeZ": 1,
+              "sizeT": 1,
+              "channelType": "DEFAULT",
+              "isRGB": false,
+              "pixelType": "FLOAT32",
+              "levels": [
+                {
+                  "downsample": 1.0,
+                  "width": 10102,
+                  "height": 12375
+                },
+                {
+                  "downsample": 2.0,
+                  "width": 5051,
+                  "height": 6187
+                },
+                {
+                  "downsample": 4.0,
+                  "width": 2525,
+                  "height": 3093
+                },
+                {
+                  "downsample": 8.0,
+                  "width": 1262,
+                  "height": 1546
+                },
+                {
+                  "downsample": 16.0,
+                  "width": 631,
+                  "height": 773
+                },
+                {
+                  "downsample": 32.0,
+                  "width": 315,
+                  "height": 386
+                }
+              ],
+              "channels": [
+                {
+                  "name": "Hematoxylin",
+                  "color": -11383865
+                },
+                {
+                  "name": "Eosin",
+                  "color": -4256813
+                }
+              ],
+              "pixelCalibration": {
+                "pixelWidth": {
+                  "value": 0.22023102234243724,
+                  "unit": "µm"
+                },
+                "pixelHeight": {
+                  "value": 0.22023102234243724,
+                  "unit": "µm"
+                },
+                "zSpacing": {
+                  "value": 1.0,
+                  "unit": "z-slice"
+                },
+                "timeUnit": "SECONDS",
+                "timepoints": []
+              },
+              "preferredTileWidth": 256,
+              "preferredTileHeight": 256
+            }
+          }
+        ],
+        "metadata": {
+          "name": "Tonsil_HE",
+          "width": 10102,
+          "height": 12375,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT8",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 10102,
+              "height": 12375
+            },
+            {
+              "downsample": 2.0,
+              "width": 5051,
+              "height": 6187
+            },
+            {
+              "downsample": 4.0,
+              "width": 2525,
+              "height": 3093
+            },
+            {
+              "downsample": 8.0,
+              "width": 1262,
+              "height": 1546
+            },
+            {
+              "downsample": 16.0,
+              "width": 631,
+              "height": 773
+            },
+            {
+              "downsample": 32.0,
+              "width": 315,
+              "height": 386
+            }
+          ],
+          "channels": [
+            {
+              "name": "Red",
+              "color": -65536
+            },
+            {
+              "name": "Green",
+              "color": -16711936
+            },
+            {
+              "name": "Blue",
+              "color": -16776961
+            },
+            {
+              "name": "Hematoxylin",
+              "color": -11383865
+            },
+            {
+              "name": "Eosin",
+              "color": -4256813
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 0.22023102234243724,
+              "unit": "µm"
+            },
+            "pixelHeight": {
+              "value": 0.22023102234243724,
+              "unit": "µm"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 256,
+          "preferredTileHeight": 256
+        }
+      },
+      "transforminterpolation": {
+        "interpolation": 2,
+        "transform": {
+          "m00": 0.6766067979569705,
+          "m10": -0.0055108494725305554,
+          "m01": 0.005808609419092888,
+          "m11": 0.676996176348629,
+          "m02": 129.6986252236824,
+          "m12": -1767.327265530661
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "name": "Tonsil_flip.ome.tif_Overlay",
+    "width": 6879,
+    "height": 6392,
+    "sizeZ": 1,
+    "sizeT": 1,
+    "channelType": "DEFAULT",
+    "isRGB": false,
+    "pixelType": "FLOAT32",
+    "levels": [
+      {
+        "downsample": 1.0,
+        "width": 6879,
+        "height": 6392
+      },
+      {
+        "downsample": 4.0,
+        "width": 1719,
+        "height": 1598
+      },
+      {
+        "downsample": 16.0,
+        "width": 429,
+        "height": 399
+      }
+    ],
+    "channels": [
+      {
+        "name": "Tonsil_flip.ome.tif-Hoechst",
+        "color": -256
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-AF1",
+        "color": -1809940
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD31",
+        "color": -16776961
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD11c",
+        "color": -8192
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD68",
+        "color": -16719648
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD163",
+        "color": -65312
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD20",
+        "color": -13312
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD4",
+        "color": -16711698
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD8a",
+        "color": -65298
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-Granzyme-B",
+        "color": -3342592
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-PD-L1",
+        "color": -15948046
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-FOXP3",
+        "color": -914297
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-E-Cadherin",
+        "color": -9899508
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-PD-1",
+        "color": -15971854
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-Ki-67",
+        "color": -914389
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-CD45",
+        "color": -15928820
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-Pan-CK",
+        "color": -13955854
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-Vimentin",
+        "color": -898804
+      },
+      {
+        "name": "Tonsil_flip.ome.tif-SMA",
+        "color": -15928728
+      },
+      {
+        "name": "Tonsil_HE-Red",
+        "color": -65536
+      },
+      {
+        "name": "Tonsil_HE-Green",
+        "color": -16711936
+      },
+      {
+        "name": "Tonsil_HE-Blue",
+        "color": -16776961
+      },
+      {
+        "name": "Tonsil_HE-Hematoxylin",
+        "color": -11383865
+      },
+      {
+        "name": "Tonsil_HE-Eosin",
+        "color": -4256813
+      }
+    ],
+    "pixelCalibration": {
+      "pixelWidth": {
+        "value": 0.325,
+        "unit": "µm"
+      },
+      "pixelHeight": {
+        "value": 0.325,
+        "unit": "µm"
+      },
+      "zSpacing": {
+        "value": 1.0,
+        "unit": "z-slice"
+      },
+      "timeUnit": "SECONDS",
+      "timepoints": []
+    },
+    "preferredTileWidth": 256,
+    "preferredTileHeight": 256
+  }
+}

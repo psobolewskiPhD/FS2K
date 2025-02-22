@@ -1,0 +1,271 @@
+{
+  "name": "HE",
+  "gamma": 0.45,
+  "invertBackground": true,
+  "channels": [
+    {
+      "name": "Tonsil_flip.ome.tif-Hoechst (C1)",
+      "minDisplay": 603.18097,
+      "maxDisplay": 8708.519,
+      "color": {
+        "red": 255,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-AF1 (C2)",
+      "minDisplay": 20.987772,
+      "maxDisplay": 10110.624,
+      "color": {
+        "red": 0,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD31 (C3)",
+      "minDisplay": 1417.3014,
+      "maxDisplay": 16903.834,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 255
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD11c (C4)",
+      "minDisplay": 28.135672,
+      "maxDisplay": 25707.812,
+      "color": {
+        "red": 255,
+        "green": 224,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD68 (C5)",
+      "minDisplay": 38.022644,
+      "maxDisplay": 36021.246,
+      "color": {
+        "red": 0,
+        "green": 224,
+        "blue": 224
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD163 (C6)",
+      "minDisplay": 11.404952,
+      "maxDisplay": 10061.159,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 224
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD20 (C7)",
+      "minDisplay": 18.285322,
+      "maxDisplay": 16242.231,
+      "color": {
+        "red": 255,
+        "green": 204,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD4 (C8)",
+      "minDisplay": 23.306805,
+      "maxDisplay": 21698.555,
+      "color": {
+        "red": 0,
+        "green": 255,
+        "blue": 238
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD8a (C9)",
+      "minDisplay": 15.05779,
+      "maxDisplay": 7217.329,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 238
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-Granzyme-B (C10)",
+      "minDisplay": 11.429578,
+      "maxDisplay": 10890.474,
+      "color": {
+        "red": 204,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-PD-L1 (C11)",
+      "minDisplay": 24.056759,
+      "maxDisplay": 20973.523,
+      "color": {
+        "red": 12,
+        "green": 166,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-FOXP3 (C12)",
+      "minDisplay": 12.29506,
+      "maxDisplay": 9282.671,
+      "color": {
+        "red": 242,
+        "green": 12,
+        "blue": 135
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-E-Cadherin (C13)",
+      "minDisplay": 33.284462,
+      "maxDisplay": 30550.133,
+      "color": {
+        "red": 104,
+        "green": 242,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-PD-1 (C14)",
+      "minDisplay": 16.680857,
+      "maxDisplay": 7633.642,
+      "color": {
+        "red": 12,
+        "green": 73,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-Ki-67 (C15)",
+      "minDisplay": 19.12515,
+      "maxDisplay": 19460.42,
+      "color": {
+        "red": 242,
+        "green": 12,
+        "blue": 43
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-CD45 (C16)",
+      "minDisplay": 13.404141,
+      "maxDisplay": 12539.602,
+      "color": {
+        "red": 12,
+        "green": 242,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-Pan-CK (C17)",
+      "minDisplay": 44.567356,
+      "maxDisplay": 41516.797,
+      "color": {
+        "red": 43,
+        "green": 12,
+        "blue": 242
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-Vimentin (C18)",
+      "minDisplay": 22.347685,
+      "maxDisplay": 22060.75,
+      "color": {
+        "red": 242,
+        "green": 73,
+        "blue": 12
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_flip.ome.tif-SMA (C19)",
+      "minDisplay": 759.29193,
+      "maxDisplay": 2848.425,
+      "color": {
+        "red": 12,
+        "green": 242,
+        "blue": 104
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_HE-Red (C20)",
+      "minDisplay": 68.38915,
+      "maxDisplay": 239.979,
+      "color": {
+        "red": 255,
+        "green": 0,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_HE-Green (C21)",
+      "minDisplay": 29.604324,
+      "maxDisplay": 235.21204,
+      "color": {
+        "red": 0,
+        "green": 255,
+        "blue": 0
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_HE-Blue (C22)",
+      "minDisplay": 150.02032,
+      "maxDisplay": 243.57784,
+      "color": {
+        "red": 0,
+        "green": 0,
+        "blue": 255
+      },
+      "isShowing": false
+    },
+    {
+      "name": "Tonsil_HE-Hematoxylin (C23)",
+      "minDisplay": -0.14255215,
+      "maxDisplay": 0.74905336,
+      "color": {
+        "red": 82,
+        "green": 75,
+        "blue": 199
+      },
+      "isShowing": true
+    },
+    {
+      "name": "Tonsil_HE-Eosin (C24)",
+      "minDisplay": -0.008491028,
+      "maxDisplay": 0.99910957,
+      "color": {
+        "red": 191,
+        "green": 11,
+        "blue": 211
+      },
+      "isShowing": true
+    }
+  ]
+}

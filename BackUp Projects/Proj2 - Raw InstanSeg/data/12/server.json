@@ -1,0 +1,248 @@
+{
+  "builderType": "pyramidize",
+  "builder": {
+    "builderType": "uri",
+    "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+    "uri": "file:/F:/Random/QuPath%20Workshop%202025/Tonsil_flip.ome.tif",
+    "args": [
+      "--series",
+      "0"
+    ],
+    "metadata": {
+      "name": "Tonsil_flip.ome.tif",
+      "width": 6879,
+      "height": 6392,
+      "sizeZ": 1,
+      "sizeT": 1,
+      "channelType": "DEFAULT",
+      "isRGB": false,
+      "pixelType": "UINT16",
+      "levels": [
+        {
+          "downsample": 1.0,
+          "width": 6879,
+          "height": 6392
+        }
+      ],
+      "channels": [
+        {
+          "name": "Hoechst",
+          "color": 16711680
+        },
+        {
+          "name": "AF1",
+          "color": 65280
+        },
+        {
+          "name": "CD31",
+          "color": 255
+        },
+        {
+          "name": "CD11c",
+          "color": 16769024
+        },
+        {
+          "name": "CD68",
+          "color": 57568
+        },
+        {
+          "name": "CD163",
+          "color": 16711904
+        },
+        {
+          "name": "CD20",
+          "color": 16763904
+        },
+        {
+          "name": "CD4",
+          "color": 65518
+        },
+        {
+          "name": "CD8a",
+          "color": 16711918
+        },
+        {
+          "name": "Granzyme-B",
+          "color": 13434624
+        },
+        {
+          "name": "PD-L1",
+          "color": 829170
+        },
+        {
+          "name": "FOXP3",
+          "color": 15862919
+        },
+        {
+          "name": "E-Cadherin",
+          "color": 6877708
+        },
+        {
+          "name": "PD-1",
+          "color": 805362
+        },
+        {
+          "name": "Ki-67",
+          "color": 15862827
+        },
+        {
+          "name": "CD45",
+          "color": 848396
+        },
+        {
+          "name": "Pan-CK",
+          "color": 2821362
+        },
+        {
+          "name": "Vimentin",
+          "color": 15878412
+        },
+        {
+          "name": "SMA",
+          "color": 848488
+        }
+      ],
+      "pixelCalibration": {
+        "pixelWidth": {
+          "value": 0.325,
+          "unit": "µm"
+        },
+        "pixelHeight": {
+          "value": 0.325,
+          "unit": "µm"
+        },
+        "zSpacing": {
+          "value": 1.0,
+          "unit": "z-slice"
+        },
+        "timeUnit": "SECONDS",
+        "timepoints": []
+      },
+      "preferredTileWidth": 256,
+      "preferredTileHeight": 256
+    }
+  },
+  "metadata": {
+    "name": "Tonsil_flip.ome.tif",
+    "width": 6879,
+    "height": 6392,
+    "sizeZ": 1,
+    "sizeT": 1,
+    "channelType": "DEFAULT",
+    "isRGB": false,
+    "pixelType": "UINT16",
+    "levels": [
+      {
+        "downsample": 1.0,
+        "width": 6879,
+        "height": 6392
+      },
+      {
+        "downsample": 4.0,
+        "width": 1719,
+        "height": 1598
+      },
+      {
+        "downsample": 16.0,
+        "width": 429,
+        "height": 399
+      }
+    ],
+    "channels": [
+      {
+        "name": "Hoechst",
+        "color": -3355444
+      },
+      {
+        "name": "AF1",
+        "color": -1809940
+      },
+      {
+        "name": "CD31",
+        "color": -16776961
+      },
+      {
+        "name": "CD11c",
+        "color": -8192
+      },
+      {
+        "name": "CD68",
+        "color": -16719648
+      },
+      {
+        "name": "CD163",
+        "color": -65312
+      },
+      {
+        "name": "CD20",
+        "color": -6730496
+      },
+      {
+        "name": "CD4",
+        "color": -16711698
+      },
+      {
+        "name": "CD8a",
+        "color": -65298
+      },
+      {
+        "name": "Granzyme-B",
+        "color": -3342592
+      },
+      {
+        "name": "PD-L1",
+        "color": -15948046
+      },
+      {
+        "name": "FOXP3",
+        "color": -914297
+      },
+      {
+        "name": "E-Cadherin",
+        "color": -9899508
+      },
+      {
+        "name": "PD-1",
+        "color": -15971854
+      },
+      {
+        "name": "Ki-67",
+        "color": -914389
+      },
+      {
+        "name": "CD45",
+        "color": -15928820
+      },
+      {
+        "name": "Pan-CK",
+        "color": -13955854
+      },
+      {
+        "name": "Vimentin",
+        "color": -898804
+      },
+      {
+        "name": "SMA",
+        "color": -15928728
+      }
+    ],
+    "pixelCalibration": {
+      "pixelWidth": {
+        "value": 0.325,
+        "unit": "µm"
+      },
+      "pixelHeight": {
+        "value": 0.325,
+        "unit": "µm"
+      },
+      "zSpacing": {
+        "value": 1.0,
+        "unit": "z-slice"
+      },
+      "timeUnit": "SECONDS",
+      "timepoints": []
+    },
+    "preferredTileWidth": 256,
+    "preferredTileHeight": 256
+  }
+}
