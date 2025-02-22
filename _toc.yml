@@ -4,15 +4,15 @@
 format: jb-book
 root: README
 chapters:
-- file: Session 1- Visualization.ipynb
-- file: Session 2- Tissue Annotations.ipynb
-- file: Session 3- Pixel Classifier.ipynb
-- file: Session 4- Cell Detection.ipynb
-- file: Session 5 - Workflows to Scripts.ipynb
-- file: Session 6 - Classifying Cells pt1.ipynb
-- file: Session 7 - More Difficult Classifiers.ipynb
-- file: Session 8 - Creating Multiplex Classifiers.ipynb
-- file: Session 9 - Data Export and Simplification.ipynb
+- file: Session 01- Visualization.ipynb
+- file: Session 02- Tissue Annotations.ipynb
+- file: Session 03- Pixel Classifier.ipynb
+- file: Session 04- Cell Detection.ipynb
+- file: Session 05 - Workflows to Scripts.ipynb
+- file: Session 06 - Classifying Cells pt1.ipynb
+- file: Session 07 - More Difficult Classifiers.ipynb
+- file: Session 08 - Creating Multiplex Classifiers.ipynb
+- file: Session 09 - Data Export and Simplification.ipynb
 - file: Session 10- Combining Images.ipynb
 - file: Session 11 - Pixel Classifier for non-round cells.ipynb
 - file: Session 12- Spatial Analysis.ipynb
