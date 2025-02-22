@@ -6,6 +6,10 @@ author: Sarah McArdle, Zbigniew Mikulski, Michael Nelson
 copyright: 2025
 # logo: logo.png
 
+# Only build files in the table of contents.
+only_build_toc_files: true
+
+
 # Don't execute the code cells in the book when building it
 # See https://jupyterbook.org/content/execute.html
 execute:
