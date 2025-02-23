@@ -78,7 +78,7 @@ Start Here<br>
 General<br>
 :heavy_dollar_sign:[Multiplex protein imaging in tumor biology - review](https://www.nature.com/articles/s41568-023-00657-4)<br>
 [Spatial analysis by current multiplexed imaging technologies for the molecular characterisation of cancer tissues](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589153/)<br>
-[Video - Creating quality microscopy figures for manuscripts](https://www.youtube.com/watch?v=CgfnlcxbjuI)<br>
+[Video - Creating quality microscopy figures for manuscripts](https://youtu.be/CgfnlcxbjuI?t=2415)<br>
 [Additional video on figure creation](https://www.youtube.com/watch?v=F6ll37NOgXc)<br>
 [Creating and troubleshooting microscopy analysis workflows: Common challenges and common solutions](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13288)<br>
 [Developing open-source software for bioimage analysis: opportunities and challenges](https://pmc.ncbi.nlm.nih.gov/articles/PMC8226416/)
